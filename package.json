@@ -3,10 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/react-modal": "^3.13.1",
     "axios": "^1.3.5",
     "miragejs": "^0.1.47",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-modal": "^3.16.1",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.9",
     "web-vitals": "^2.1.0"
