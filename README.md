@@ -11,10 +11,7 @@ A aplicação possui uma modal para cadastros de novos lançamentos, onde é pos
 <br>
 Tecnologias / Conceitos Utilizados:
 <br>
-* ReactJs (
-** CSS
-** HTML
-** Typescript)
+* ReactJs (CSS, HTML, Typescript)
 * Styled Components
 * MirageJs
 * Axios
